@@ -21,10 +21,10 @@
 <br/><br/>
 
 ## 🟣 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaRozario&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=NataliaRozario&theme=tokyonight&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaRozario&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+| ------------- | ------------- |
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=NataliaRozario&theme=tokyonight&hide_border=false)
 ![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaRozario&show_icons=true&theme=tokyonight) -->
 <!-- visit count
 [![](https://visitcount.itsvg.in/api?id=NataliaRozario&icon=3&color=6)](https://visitcount.itsvg.in) -->
