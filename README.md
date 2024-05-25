@@ -14,6 +14,12 @@
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
 <br/><br/>
 
+## 📫 Get in Touch
+- 💬 Feel free to reach out for collaborations or just a tech chat!<br/>
+- 📧 Email me at **natyraissa137@gmail.com**<br/>
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/natalia-rozario)  
+<br/><br/>
+
 ## 🟣 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NataliaRozario&theme=tokyonight&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaRozario&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
