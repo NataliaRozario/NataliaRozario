@@ -5,10 +5,11 @@
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi"> -->
 ---
 
-👩🏻‍💻 Systems Developer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Completed a Technical Course in Systems Development at ETEC de Hortolândia<br/>
-🎓 Currently graduating in Systems Analysis and Development at the University FATEC de Campinas
-
+- 👩🏻‍💻 **System developer** passionate about enhancing user and developer experiences<br/>
+- 👩🏻‍🎓 Completed a Technical Course in **Systems Development** at [**ETEC de Hortolândia**](https://etechortolandia.cps.sp.gov.br/)<br/>
+- 🎓 Currently graduating in **Systems Analysis and Development** at the University [**FATEC de Campinas**](https://fateccampinas.com.br/site/) 
+- ✨ Sharing my journey and learning in tech!
+  
 ---
 
 ### 💻 Tech Stack
