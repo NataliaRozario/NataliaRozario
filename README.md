@@ -1,4 +1,4 @@
-### Hi, I'm Natalia!
+### Hey there, I'm Natalia!
 
 👩🏻‍💻 Systems Developer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Completed a Technical Course in Systems Development at ETEC de Hortolândia, Brazil<br/>
