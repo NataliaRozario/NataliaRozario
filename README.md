@@ -1,4 +1,6 @@
-### Hey there, I'm Natalia!
+### <div align=center> Hey there, I'm Natalia! </div>
+
+---
 
 👩🏻‍💻 Systems Developer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Completed a Technical Course in Systems Development at ETEC de Hortolândia<br/>
