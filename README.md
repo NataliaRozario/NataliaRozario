@@ -1,9 +1,8 @@
 ![Sem título](https://github.com/NataliaRozario/NataliaRozario/assets/92644921/d491fd8e-87c8-42f3-bd05-72701d62776f)
 <!-- https://reheader.glitch.me/home -->
-
+---
 <!-- hand hi 
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi"> -->
----
 
 - 👩🏻‍💻 **System developer** passionate about enhancing user and developer experiences<br/>
 - 👩🏻‍🎓 Completed a Technical Course in **Systems Development** at [**ETEC de Hortolândia**](https://etechortolandia.cps.sp.gov.br/)<br/>
@@ -19,8 +18,7 @@
 ---
 
 ### 🟣 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=NataliaRozario&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaRozario&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=NataliaRozario&theme=tokyonight&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaRozario&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats
 ![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaRozario&show_icons=true&theme=tokyonight) -->
