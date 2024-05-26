@@ -18,11 +18,17 @@
 - 💬 Feel free to reach out for collaborations or just a tech chat!<br/>
 - 📧 Email me at **natyraissa137@gmail.com**
 <!-- - 🔗 [**LinkedIn**](https://www.linkedin.com/in/natalia-rozario) -->
+
 <br/>
 
 ## 🟣 GitHub Stats
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=NataliaRozario&theme=tokyonight&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaRozario&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 | ------------- | ------------- |
+
+<br/>
+
+![](https://github.com/NataliaRozario/NataliaRozario/assets/92644921/c352be4a-fe1c-4887-84a8-902978e58087)
+<!-- https://forthebadge.com -->
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats
 ![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaRozario&show_icons=true&theme=tokyonight) -->
