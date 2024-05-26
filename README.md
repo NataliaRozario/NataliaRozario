@@ -40,6 +40,6 @@
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats
 ![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaRozario&show_icons=true&theme=tokyonight) -->
-<!-- visit count
-[![](https://visitcount.itsvg.in/api?id=NataliaRozario&icon=3&color=6)](https://visitcount.itsvg.in) -->
+ visit count
+[![](https://visitcount.itsvg.in/api?id=NataliaRozario&icon=3&color=6)](https://visitcount.itsvg.in) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
