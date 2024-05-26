@@ -25,11 +25,12 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg">
 <br/><br/>
 
-## 📫 Get in Touch - <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg">
+## 📫 Get in Touch 
+<!-- <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg"> -->
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-rozario/)](https://www.linkedin.com/in/natalia-rozario/) -->
 - 💬 Feel free to reach out for collaborations or just a tech chat!<br/>
-- 📧 Email me at **natyraissa137@gmail.com**
-<!-- - 🔗 [**LinkedIn**](https://www.linkedin.com/in/natalia-rozario) -->
+- 📧 Email me at **natyraissa137@gmail.com**<br/>
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/natalia-rozario)
 
 <br/>
 
