@@ -30,7 +30,7 @@
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-rozario/)](https://www.linkedin.com/in/natalia-rozario/) -->
 - 💬 Feel free to reach out for collaborations or just a tech chat!<br/>
 - 📧 Email me at **natyraissa137@gmail.com**<br/>
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/natalia-rozario)
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/nataliarozario)
 
 <br/>
 
