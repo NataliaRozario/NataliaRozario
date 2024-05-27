@@ -6,7 +6,7 @@
 
 - 👩🏻‍💻 **System developer** passionate about enhancing user and developer experiences<br/>
 - 👩🏻‍🎓 Completed a Technical Course in **Systems Development** at [**ETEC de Hortolândia**](https://etechortolandia.cps.sp.gov.br/)<br/>
-- 🎓 Currently graduating in **Systems Analysis and Development** at the [**FATEC de Campinas**](https://fateccampinas.com.br/site/) University
+- 🎓 Currently graduating in **Systems Analysis and Development** at [**FATEC de Campinas**](https://fateccampinas.com.br/site/) University
 - ✨ Sharing my journey and learning in tech!
 <br/><br/>
 
