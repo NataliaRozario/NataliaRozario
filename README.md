@@ -1,5 +1,5 @@
-<table align="left">
- <tr><td><a href="README_pt.md"><img src="images/us-flag.png" height="18"> English</a></td><td><a href="README.md"><img src="images/br-flag.png" height="18"> Português</a></td></tr>
+<table align="center">
+ <tr><td><a href="README_pt.md"><img src="images/us-flag.png" height="20"> Português</a></td><td><a href="README.md"><img src="images/br-flag.png" height="20"> English</a></td></tr>
 </table>
 
 ![Sem título](https://github.com/NataliaRozario/NataliaRozario/assets/92644921/d491fd8e-87c8-42f3-bd05-72701d62776f)
