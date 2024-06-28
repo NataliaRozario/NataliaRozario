@@ -1,5 +1,5 @@
-<table align="center">
- <tr><td><a href="README_pt.md"><img src="images/us-flag.png" height="20">Português</a></td><td><a href="README.md"><img src="images/br-flag.png" height="20">English</a></td></tr>
+<table align="left">
+ <tr><td><img src="united-states-of-america.png" height="30" align="center"><a> </a><a href="README_pt.md">English</a></td><td><img src="flag_br.png" height="30" align="center"><a> </a><a href="README_pt.md">Português</a></td></tr>
 </table>
 
 ![](banner_br.png)
