@@ -1,5 +1,5 @@
 <table align="center">
- <tr><td><a href="README_pt.md"><img src="images/us-flag.png" height="20"> English</a></td><td><a href="README.md"><img src="images/br-flag.png" height="20"> Português</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="images/us-flag.png" height="20"> Português</a></td><td><a href="README.md"><img src="images/br-flag.png" height="20"> English</a></td></tr>
 </table>
 
 ![Sem título](https://github.com/NataliaRozario/NataliaRozario/assets/92644921/d491fd8e-87c8-42f3-bd05-72701d62776f)
@@ -11,7 +11,7 @@
 - 👩🏻‍💻 **Desenvolvedora de Sistemas** apaixonado por aprimorar as experiências do usuário e do desenvolvedor<br/>
 - 👩🏻‍🎓 Conclui um Curso Técnico em **Desenvolvimento de Sistemas** na [**ETEC de Hortolândia**](https://etechortolandia.cps.sp.gov.br/)<br/>
 - 🎓 Atualmente fazendo uma graduação em **Análises e Desenvolvimento de Sistemas** na Universidade [**FATEC de Campinas**](https://fateccampinas.com.br/site/)
-- ✨ Compartilhando minha jornada e aprendizado na tecnlogia!
+- ✨ Compartilhando minha jornada e aprendizado na tecnologia!
 <br/><br/>
 
 ## 💻 Ferramentas
