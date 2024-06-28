@@ -1,5 +1,5 @@
 <table align="center">
- <tr><td><a href="README_pt.md"><img src="images/us-flag.png" height="20"> Português</a></td><td><a href="README.md"><img src="images/br-flag.png" height="20"> English</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="images/us-flag.png" height="20">Português</a></td><td><a href="README.md"><img src="images/br-flag.png" height="20">English</a></td></tr>
 </table>
 
 ![](banner_br.png)
@@ -37,8 +37,7 @@
 <br/>
 
 ## 🟣 Estatísticas do GitHub
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=NataliaRozario&theme=tokyonight&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaRozario&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
-| ------------- | ------------- |
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaRozario&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- https://forthebadge.com -->
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats
