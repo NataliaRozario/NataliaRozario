@@ -1,5 +1,5 @@
 <table align="left">
- <tr><td><img src="united-states-of-america.png" height="30" align="center"><a> </a><a href="README.md">English</a></td><td><img src="flag_br.png" height="30" align="center"><a> </a><a href="README_pt.md">Português</a></td></tr>
+ <tr><td><img src="united-states-of-america.png" height="30" align="center"><a> </a><a href="https://github.com/NataliaRozario">English</a></td><td><img src="flag_br.png" height="30" align="center"><a> </a><a href="README_pt.md">Português</a></td></tr>
 </table>
 
 ![Sem título](https://github.com/NataliaRozario/NataliaRozario/assets/92644921/d491fd8e-87c8-42f3-bd05-72701d62776f)
