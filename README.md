@@ -1,10 +1,5 @@
 ![Sem título](https://github.com/NataliaRozario/NataliaRozario/assets/92644921/d491fd8e-87c8-42f3-bd05-72701d62776f)
 <!-- https://reheader.glitch.me/home -->
-<!--
-<table align="left">
- <tr><td><img src="united-states-of-america.png" height="30" align="center"><a> </a><a href="https://github.com/NataliaRozario">English Version</a></td><td><img src="flag_br.png" height="30" align="center"><a> </a><a href="README_pt.md">Versão em Português</a></td></tr>
-</table>
-<br/><br/><br/> -->
 
 <!-- hand hi 
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi"> -->
@@ -35,7 +30,6 @@
 - 💬 Feel free to reach out for collaborations or just a tech chat!<br/>
 - 📧 Email me at **natyraissa137@gmail.com**
 - <a href="https://www.linkedin.com/in/nataliarozario"> <img height="20" align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg"> <a/>
-<!-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/nataliarozario) -->
 <br/>
 
 ## 🟣 GitHub Stats
