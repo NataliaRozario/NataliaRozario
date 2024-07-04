@@ -1,7 +1,3 @@
-<table align="left">
- <tr><td><img src="united-states-of-america.png" height="30" align="center"><a> </a><a href="https://github.com/NataliaRozario">English</a></td><td><img src="flag_br.png" height="30" align="center"><a> </a><a href="README_pt.md">Português</a></td></tr>
-</table>
-
 ![](banner_br.png)
 <!-- https://reheader.glitch.me/home -->
 
@@ -29,10 +25,12 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg">
 <br/><br/>
 
-## 📫 Entre em contato - <a href="https://www.linkedin.com/in/nataliarozario"> <img height="20" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg"> <a/>
+## 📫 Entre em contato
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-rozario/)](https://www.linkedin.com/in/natalia-rozario/) -->
-- 💬 Sinta-se à vontade para entrar em contato para colaborações ou uma conversa!<br/>
+- 💬 Sinta-se à vontade para entrar em contato para colaborações ou bater um papo!<br/>
 - 📧 Me envie um e-mail em **natyraissa137@gmail.com**
+- <a href="https://www.linkedin.com/in/nataliarozario"> <img height="20" align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg"> <a/>
+
 <!-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/nataliarozario) -->
 <br/>
 
@@ -45,3 +43,7 @@
 <!-- visit count
 [![](https://visitcount.itsvg.in/api?id=NataliaRozario&icon=3&color=6)](https://visitcount.itsvg.in) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<table align="right">
+ <tr><td><img src="united-states-of-america.png" height="30" align="center"><a> </a><a href="https://github.com/NataliaRozario">English</a></td><td><img src="flag_br.png" height="30" align="center"><a> </a><a href="README_pt.md">Português</a></td></tr>
+</table>
