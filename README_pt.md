@@ -1,6 +1,8 @@
 ![](banner_br.png)
 <!-- https://reheader.glitch.me/home -->
-
+<table align="left">
+ <tr><td><img src="united-states-of-america.png" height="30" align="center"><a> </a><a href="https://github.com/NataliaRozario">English</a></td><td><img src="flag_br.png" height="30" align="center"><a> </a><a href="README_pt.md">Português</a></td></tr>
+</table><br/><br/><br/>
 <!-- hand hi 
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi"> -->
 
@@ -43,7 +45,8 @@
 <!-- visit count
 [![](https://visitcount.itsvg.in/api?id=NataliaRozario&icon=3&color=6)](https://visitcount.itsvg.in) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!--
 <table align="right">
  <tr><td><img src="united-states-of-america.png" height="30" align="center"><a> </a><a href="https://github.com/NataliaRozario">English</a></td><td><img src="flag_br.png" height="30" align="center"><a> </a><a href="README_pt.md">Português</a></td></tr>
 </table>
+-->
