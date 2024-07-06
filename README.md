@@ -1,6 +1,8 @@
 ![Sem título](https://github.com/NataliaRozario/NataliaRozario/assets/92644921/d491fd8e-87c8-42f3-bd05-72701d62776f)
 <!-- https://reheader.glitch.me/home -->
-
+<table align="left">
+ <tr><td><img src="united-states-of-america.png" height="30" align="center"><a> </a><a href="https://github.com/NataliaRozario">English</a></td><td><img src="flag_br.png" height="30" align="center"><a> </a><a href="README_pt.md">Português</a></td></tr>
+</table><br/><br/><br/>
 <!-- hand hi 
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi"> -->
 
