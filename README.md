@@ -37,7 +37,6 @@
 - 💬 Feel free to reach out for collaborations or just a tech chat!<br/>
 - 📧 Email me at **natyraissa137@gmail.com**
 - <a href="https://www.linkedin.com/in/nataliarozario"> <img height="20" align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg"> <a/>
-<br/>
 <!--
 ## 🟣 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaRozario&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
