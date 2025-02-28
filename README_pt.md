@@ -23,6 +23,7 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg">
 <br/><br/>
 
