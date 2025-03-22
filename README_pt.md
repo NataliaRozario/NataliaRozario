@@ -19,12 +19,15 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg"> 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg"><br/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell1.svg"><br/>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg">
 <br/><br/>
 
 ## 📫 Entre em contato
