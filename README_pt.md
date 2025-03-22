@@ -12,23 +12,26 @@
 - ✨ Compartilhando minha jornada e aprendizado na tecnologia!
 <br/><br/>
 
-## 💻 Ferramentas
+## 💻 Linguagens de Programação
 <!--
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" /> -->
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" /> -->
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg"> 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell1.svg"><br/>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg">
-<br/><br/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg">
+
+## 📱 Desenvolvimento Web & Mobile
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter2.svg">
+
+## 🔧 Ferramentas & IDEs
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg"><br><br>
 
 ## 📫 Entre em contato
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-rozario/)](https://www.linkedin.com/in/natalia-rozario/) -->
