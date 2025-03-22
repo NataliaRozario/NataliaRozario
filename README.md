@@ -12,7 +12,7 @@
 - ✨ Sharing my journey and learning in tech!
 <br/><br/>
 
-## 💻 Tech Stack
+## 💻 Programming Languages
 <!--
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -22,22 +22,18 @@
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" /> -->
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg"> 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell1.svg"><br/>
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg">
-<br/><br/>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg">
+
+## 📱 Web & Mobile Development
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter2.svg">
+
+## 🔧 Tools & IDEs
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg"><br><br>
 
 ## 📫 Get in Touch
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-rozario/)](https://www.linkedin.com/in/natalia-rozario/) -->
 - 💬 Feel free to reach out for collaborations or just a tech chat!<br/>
 - 📧 Email me at **natyraissa137@gmail.com**
 - <a href="https://www.linkedin.com/in/nataliarozario"> <img height="20" align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg"> <a/>
@@ -48,11 +44,7 @@
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats
 ![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliaRozario&show_icons=true&theme=tokyonight) -->
-<!-- visit count
+
+ <!-- visit count
 [![](https://visitcount.itsvg.in/api?id=NataliaRozario&icon=3&color=6)](https://visitcount.itsvg.in) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-<table align="right">
- <tr><td><img src="united-states-of-america.png" height="30" align="center"><a> </a><a href="https://github.com/NataliaRozario">English</a></td><td><img src="flag_br.png" height="30" align="center"><a> </a><a href="README_pt.md">Português</a></td></tr>
-</table>
--->
+
