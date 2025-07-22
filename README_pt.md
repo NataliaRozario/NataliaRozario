@@ -21,8 +21,7 @@
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" /> -->
-
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php2.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg">
 
