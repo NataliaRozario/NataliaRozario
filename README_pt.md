@@ -6,7 +6,7 @@
 <!-- hand hi 
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi"> -->
 
-- 👩🏻‍💻 **Desenvolvedora de Sistemas** apaixonado por aprimorar as experiências do usuário e do desenvolvedor<br/>
+- 👩🏻‍💻 **Estagiária em Machine Learning** curiosa sobre inteligência artificial, visão computacional e aprendizado de máquina<br/>
 - 👩🏻‍🎓 Conclui um Curso Técnico em **Desenvolvimento de Sistemas** na [**ETEC de Hortolândia**](https://etechortolandia.cps.sp.gov.br/)<br/>
 - 🎓 Atualmente fazendo uma graduação em **Análises e Desenvolvimento de Sistemas** na Universidade [**FATEC de Campinas**](https://fateccampinas.com.br/site/)
 - ✨ Compartilhando minha jornada e aprendizado na tecnologia!
