@@ -6,7 +6,7 @@
 <!-- hand hi 
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi"> -->
 
-- 👩🏻‍💻 **System developer** passionate about enhancing user and developer experiences<br/>
+- 👩🏻‍💻 **Machine Learning intern** curious about AI, Computer Vision and Machine Learning<br/>
 - 👩🏻‍🎓 Completed a Technical Course in **Systems Development** at [**ETEC de Hortolândia**](https://etechortolandia.cps.sp.gov.br/)<br/>
 - 🎓 Currently graduating in **Systems Analysis and Development** at the University [**FATEC de Campinas**](https://fateccampinas.com.br/site/)
 - ✨ Sharing my journey and learning in tech!
